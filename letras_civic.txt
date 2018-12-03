@@ -1,9 +1,8 @@
 Materiales:
-1.- Nitrilo sanitario.
-2.- Cortadora para el nitrilo.
+1.- Nitrilo sanitario(ROJO, BLANCO).
+2.- Cortadora laser para el nitrilo.
 3.- Lija de esmeril.
-4.- Molde de los textos.
-5.- Papel transfer.
+4.- Letras(textos en PDF para ser impresos y cortados en el nitrilo).
 --------------------------------------------------
 
 Lo que se entregará al cliente:
